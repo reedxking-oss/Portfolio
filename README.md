@@ -17,7 +17,7 @@ Welcome to my portfolio. This repository showcases several projects where I anal
 | **Tools** | Excel, SQL |
 | **Focus** | Performance trends, lap times, rider comparisons |
 | **Description** | Analyzed MotoGP race and rider data to identify performance trends, consistency patterns, and competitive differences across seasons. |
-| **Repository** | 👉 [View Project](https://github.com/yourusername/motogp-analysis) |
+| **Repository** | 👉 [View Project](https://github.com/reedxking-oss/MotoGP-Performance-Analysis) |
 
 ---
 
