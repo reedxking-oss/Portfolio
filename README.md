@@ -12,7 +12,7 @@ Welcome to my portfolio. This repository showcases several projects where I anal
 
 | Category | Details |
 |--------|--------|
-| **Tools** | Excel, SQL |
+| **Tools** | Excel, SQL, Tableau |
 | **Focus** | Performance trends, lap times, rider comparisons |
 | **Description** | Analyzed MotoGP race and rider data to identify performance trends, consistency patterns, and competitive differences across seasons. |
 | **Repository** | 👉 [View Project](https://github.com/reedxking-oss/MotoGP-Performance-Analysis) |
@@ -23,7 +23,7 @@ Welcome to my portfolio. This repository showcases several projects where I anal
 
 | Category | Details |
 |--------|--------|
-| **Tools** | Excel, Python, SQL |
+| **Tools** | Excel, Python, Tableau |
 | **Focus** | KPIs, operational logs, recurring issues |
 | **Description** | Analyzed operational and process data to track KPIs, identify recurring issues, and support continuous improvement efforts. |
 | **Repository** | 👉 [View Project](https://github.com/reedxking-oss/Operational-Performance-analysis) |
