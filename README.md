@@ -5,8 +5,6 @@ Welcome to my portfolio. This repository showcases several projects where I anal
 ## 📚 Table of Contents 
 - [MotoGP Performance Analysis](#motogp-performance-analysis)
 - [Operational Performance Analysis](#operational-performance-analysis)
-- [Current Project](#current-project)
-** IN THE PARENTHESIS, KEEP THE TITLE OF EACH PROJECT. GITHUB AUTOLINKS BASED ON HEADERS **
 
 ---
 
@@ -28,16 +26,6 @@ Welcome to my portfolio. This repository showcases several projects where I anal
 | **Tools** | Excel, Python, SQL |
 | **Focus** | KPIs, operational logs, recurring issues |
 | **Description** | Analyzed operational and process data to track KPIs, identify recurring issues, and support continuous improvement efforts. |
-| **Repository** | 👉 [View Project](https://github.com/yourusername/operations-analysis) |
+| **Repository** | 👉 [View Project](https://github.com/reedxking-oss/Operational-Performance-analysis) |
 
 ---
-
-## Current Project
-
-| Category | Details |
-|--------|--------|
-| **Status** | In progress, OBVIOUSLY NOTHING HERE YET |
-| **Tools** | SQL, Power BI |
-| **Focus** | Operational reporting |
-| **Description** | Currently developing a reporting solution focused on operational performance and trend monitoring. |
-| **Repository** | 👉 [View Project](https://github.com/yourusername/current-project) |
